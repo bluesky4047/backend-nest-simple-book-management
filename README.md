@@ -61,8 +61,6 @@ $ yarn run test:e2e
 $ yarn run test:cov
 ```
 
-## Deployment
-
 ## Resources
 
 - API Documentation : https://documenter.rafn.tech
@@ -70,9 +68,8 @@ $ yarn run test:cov
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Frafga](https:www.linkedin.com/in/frafga)
+- Website - [https://rafn.tech](https://www.rafn.tech/)
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
