@@ -15,8 +15,19 @@ NestJS uses a module-based structure to keep the application scalable, maintaina
 
 ##### This project separates features into:
 
-BookModule
-CategoryModule
+- AuthModule
+- BookModule
+- CategoryModule
+
+In this project, I chose to use the NestJS modular pattern, following the official NestJS template, because it provides a clear, scalable, and maintainable architecture from the beginning.
+
+NestJS is designed around the concept of modules, which helps separate application features into independent and well-defined units. By using this pattern, each domain such as Books and Categories has its own module, controller, and service. This separation makes the codebase easier to understand, test, and extend.
+
+I chose the default NestJS template because it already follows best practices and enforces a clean structure. It encourages the use of dependency injection, single responsibility principle, and separation of concerns, which are important for building production-ready backend applications.
+
+Using a modular pattern also improves scalability. If new features are added in the future such as users, authentication, or reviews they can be implemented as new modules without affecting existing functionality.
+
+Overall, the modular pattern allows me to build a simple API in a structured and professional way, while keeping the project easy to maintain and aligned with NestJS standards.
 
 ## Project setup
 
